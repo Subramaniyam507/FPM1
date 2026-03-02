@@ -1,6 +1,31 @@
-AirlineID;Name;CurrencyCode_code;AirlinePicURL;VIPCustomerBookings
-GA;Green Albatros;CAD;https://raw.githubusercontent.com/SAP-samples/fiori-elements-opensap/main/week1/images/airlines/Green-Albatross-logo.png;4
-FA;Fly Africa;SAR;https://raw.githubusercontent.com/SAP-samples/fiori-elements-opensap/main/week1/images/airlines/Fly-Africa-logo.png;4
-EA;European Airlines;EUR;https://raw.githubusercontent.com/SAP-samples/fiori-elements-opensap/main/week1/images/airlines/European-Airlines-logo.png;4
-OC;Oceania;USD;https://raw.githubusercontent.com/SAP-samples/fiori-elements-opensap/main/week1/images/airlines/Oceania-logo.png;4
-SW;Sunset Wings;USD;https://raw.githubusercontent.com/SAP-samples/fiori-elements-opensap/main/week1/images/airlines/Sunset-Wings-logo.png;4
+AirportID,Name,City,CountryCode_code
+Airport-8740804,Name-8740804,City-8740804,904
+Airport-31707497,Name-31707497,City-31707497,730
+Airport-31707498,Name-31707498,City-31707498,730
+Airport-31707499,Name-31707499,City-31707499,730
+Airport-31707500,Name-31707500,City-31707500,730
+Airport-31707501,Name-31707501,City-31707501,730
+Airport-31707502,Name-31707502,City-31707502,730
+Airport-31707503,Name-31707503,City-31707503,730
+Airport-31707504,Name-31707504,City-31707504,730
+Airport-31707505,Name-31707505,City-31707505,730
+Airport-31707506,Name-31707506,City-31707506,730
+Airport-31707507,Name-31707507,City-31707507,730
+Airport-31707508,Name-31707508,City-31707508,730
+Airport-31707509,Name-31707509,City-31707509,730
+Airport-31707510,Name-31707510,City-31707510,730
+Airport-31707511,Name-31707511,City-31707511,730
+Airport-31707512,Name-31707512,City-31707512,730
+Airport-31707513,Name-31707513,City-31707513,730
+Airport-31707514,Name-31707514,City-31707514,730
+Airport-31707515,Name-31707515,City-31707515,730
+Airport-31707516,Name-31707516,City-31707516,730
+Airport-31707517,Name-31707517,City-31707517,730
+Airport-31707518,Name-31707518,City-31707518,730
+Airport-31707519,Name-31707519,City-31707519,730
+Airport-31707520,Name-31707520,City-31707520,730
+Airport-31707521,Name-31707521,City-31707521,730
+Airport-31707522,Name-31707522,City-31707522,730
+Airport-31707523,Name-31707523,City-31707523,730
+Airport-31707524,Name-31707524,City-31707524,730
+Airport-31707525,Name-31707525,City-31707525,730

@@ -1,4 +1,3 @@
-code;name
-N;New
-X;Canceled
-B;Booked
+code,locale,name,descr
+X,ru,Booked,Booked
+X,da,New,New

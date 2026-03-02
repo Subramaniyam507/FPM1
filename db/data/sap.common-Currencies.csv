@@ -1,34 +1,31 @@
-code;locale;name;descr
-AU;de;Australien;Commonwealth Australien
-CA;de;Kanada;Canada
-CN;de;China;Volksrepublik China
-FR;de;Frankreich;Republik Frankreich
-DE;de;Deutschland;Bundesrepublik Deutschland
-IN;de;Indien;Republik Indien
-IL;de;Israel;Staat Israel
-MM;de;Myanmar;Republik der Union Myanmar
-GB;de;Vereinigtes Königreich;Vereinigtes Königreich Großbritannien und Nordirland
-US;de;Vereinigte Staaten;Vereinigte Staaten von Amerika
-EU;de;Europäische Union;Europäische Union
-AU;fr;Australie;Commonwealth d'Australie
-CA;fr;Canada;Canada
-CN;fr;Chine;République populaire de Chine (RPC)
-FR;fr;France;République française
-DE;fr;Allemagne;République fédérale d'Allemagne
-IN;fr;Inde;République de l'Inde
-IL;fr;Israël;État d'Israël
-MM;fr;Birmanie;République de l'Union du Myanmar
-GB;fr;Royaume-Uni;Royaume-Uni et Irlande du Nord
-US;fr;États-Unis;États-Unis d'Amérique (États-Unis)
-EU;fr;Union Européenne;Union Européenne
-AU;en;Australie;Commonwealth d'Australie
-CA;en;Canada;Canada
-CN;en;China;People's Republic of China (PRC)
-FR;en;France;French Republic
-DE;en;Germany;Federal Republic of Germany
-IN;en;India;Republic of India
-IL;en;Israel;State of Israel
-MM;en;Myanmar;Republic of the Union of Myanmar
-GB;en;United Kingdom;United Kingdom of Great Britain and Northern Ireland
-US;en;United States;United States of America (USA)
-EU;en;European Union;European Union
+code,symbol,minorUnit,numcode,exponent,minor,name,descr
+615,41615,37,44,4,minor-3941615,name-3941615,descr-3941615
+435,82435,82,46,73,minor-9182435,name-9182435,descr-9182435
+436,82436,36,2,29,minor-9182436,name-9182436,descr-9182436
+437,82437,36,81,94,minor-9182437,name-9182437,descr-9182437
+438,82438,94,49,58,minor-9182438,name-9182438,descr-9182438
+439,82439,24,18,90,minor-9182439,name-9182439,descr-9182439
+440,82440,39,37,12,minor-9182440,name-9182440,descr-9182440
+441,82441,35,25,49,minor-9182441,name-9182441,descr-9182441
+442,82442,50,41,70,minor-9182442,name-9182442,descr-9182442
+443,82443,26,4,37,minor-9182443,name-9182443,descr-9182443
+444,82444,81,7,89,minor-9182444,name-9182444,descr-9182444
+445,82445,88,62,57,minor-9182445,name-9182445,descr-9182445
+446,82446,87,97,59,minor-9182446,name-9182446,descr-9182446
+447,82447,82,7,7,minor-9182447,name-9182447,descr-9182447
+448,82448,12,56,68,minor-9182448,name-9182448,descr-9182448
+449,82449,29,44,69,minor-9182449,name-9182449,descr-9182449
+450,82450,100,51,47,minor-9182450,name-9182450,descr-9182450
+451,82451,4,16,10,minor-9182451,name-9182451,descr-9182451
+452,82452,17,98,96,minor-9182452,name-9182452,descr-9182452
+453,82453,9,76,46,minor-9182453,name-9182453,descr-9182453
+454,82454,25,82,13,minor-9182454,name-9182454,descr-9182454
+455,82455,83,94,10,minor-9182455,name-9182455,descr-9182455
+456,82456,4,97,88,minor-9182456,name-9182456,descr-9182456
+457,82457,54,91,27,minor-9182457,name-9182457,descr-9182457
+458,82458,28,49,3,minor-9182458,name-9182458,descr-9182458
+459,82459,40,32,74,minor-9182459,name-9182459,descr-9182459
+460,82460,70,99,67,minor-9182460,name-9182460,descr-9182460
+461,82461,2,65,26,minor-9182461,name-9182461,descr-9182461
+462,82462,86,41,36,minor-9182462,name-9182462,descr-9182462
+463,82463,35,83,78,minor-9182463,name-9182463,descr-9182463

@@ -1,19 +1,31 @@
-code;locale;name;descr
-EUR;de;Euro;European Euro
-USD;de;US-Dollar;United States Dollar
-CAD;de;Kanadischer Dollar;Kanadischer Dollar
-AUD;de;Australischer Dollar;Australischer Dollar
-GBP;de;Pfund;Britische Pfund
-ILS;de;Schekel;Israelische Schekel
-EUR;fr;euro;de la Zone euro
-USD;fr;dollar;dollar des États-Unis
-CAD;fr;dollar canadien;dollar canadien
-AUD;fr;dollar australien;dollar australien
-GBP;fr;livre sterling;pound sterling
-ILS;fr;Shekel;shekel israelien
-EUR;en;euro;euro
-USD;en;dollar;US dollar
-CAD;en;canadien dollar;canadien dollar 
-AUD;en;australien dollar;australien dollar 
-GBP;en;pound sterling;pound sterling
-ILS;en;Shekel;shekel
+AirlineID,Name,CurrencyCode_code,AirlinePicURL,VIPCustomerBookings
+Airline-25132987,Name-25132987,615,AirlinePicURL-25132987,21
+Airline-21011328,Name-21011328,463,AirlinePicURL-21011328,34
+Airline-21011329,Name-21011329,463,AirlinePicURL-21011329,46
+Airline-21011330,Name-21011330,463,AirlinePicURL-21011330,6
+Airline-21011331,Name-21011331,463,AirlinePicURL-21011331,72
+Airline-21011332,Name-21011332,463,AirlinePicURL-21011332,78
+Airline-21011333,Name-21011333,463,AirlinePicURL-21011333,19
+Airline-21011334,Name-21011334,463,AirlinePicURL-21011334,30
+Airline-21011335,Name-21011335,463,AirlinePicURL-21011335,84
+Airline-21011336,Name-21011336,463,AirlinePicURL-21011336,3
+Airline-21011337,Name-21011337,463,AirlinePicURL-21011337,13
+Airline-21011338,Name-21011338,463,AirlinePicURL-21011338,45
+Airline-21011339,Name-21011339,463,AirlinePicURL-21011339,47
+Airline-21011340,Name-21011340,463,AirlinePicURL-21011340,13
+Airline-21011341,Name-21011341,463,AirlinePicURL-21011341,45
+Airline-21011342,Name-21011342,463,AirlinePicURL-21011342,22
+Airline-21011343,Name-21011343,463,AirlinePicURL-21011343,92
+Airline-21011344,Name-21011344,463,AirlinePicURL-21011344,37
+Airline-21011345,Name-21011345,463,AirlinePicURL-21011345,33
+Airline-21011346,Name-21011346,463,AirlinePicURL-21011346,43
+Airline-21011347,Name-21011347,463,AirlinePicURL-21011347,86
+Airline-21011348,Name-21011348,463,AirlinePicURL-21011348,97
+Airline-21011349,Name-21011349,463,AirlinePicURL-21011349,30
+Airline-21011350,Name-21011350,463,AirlinePicURL-21011350,77
+Airline-21011351,Name-21011351,463,AirlinePicURL-21011351,93
+Airline-21011352,Name-21011352,463,AirlinePicURL-21011352,23
+Airline-21011353,Name-21011353,463,AirlinePicURL-21011353,58
+Airline-21011354,Name-21011354,463,AirlinePicURL-21011354,78
+Airline-21011355,Name-21011355,463,AirlinePicURL-21011355,68
+Airline-21011356,Name-21011356,463,AirlinePicURL-21011356,8

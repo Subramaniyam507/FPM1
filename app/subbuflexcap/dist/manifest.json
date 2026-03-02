@@ -1,0 +1,145 @@
+{
+	"_version": "1.82.0",
+	"sap.app": {
+		"id": "com.subbu.subbuflexcap",
+		"type": "application",
+		"i18n": {
+			"bundleUrl": "i18n/i18n.properties",
+			"supportedLocales": [
+				""
+			]
+		},
+		"applicationVersion": {
+			"version": "0.0.1"
+		},
+		"title": "{{appTitle}}",
+		"description": "{{appDescription}}",
+		"resources": "resources.json",
+		"sourceTemplate": {
+			"id": "@sap/generator-fiori:fpm",
+			"version": "1.20.4",
+			"toolsId": "149e046c-8ad2-4002-a63b-e5d8b5f7c1c0"
+		},
+		"dataSources": {
+			"mainService": {
+				"uri": "/processor/",
+				"type": "OData",
+				"settings": {
+					"annotations": [],
+					"odataVersion": "4.01"
+				}
+			}
+		},
+		"crossNavigation": {
+			"inbounds": {
+				"travel-view": {
+					"semanticObject": "travel",
+					"action": "view",
+					"title": "{{travel-view.flpTitle}}",
+					"subTitle": "{{travel-view.flpSubtitle}}",
+					"signature": {
+						"parameters": {},
+						"additionalParameters": "allowed"
+					}
+				}
+			}
+		}
+	},
+	"sap.ui": {
+		"technology": "UI5",
+		"icons": {
+			"icon": "",
+			"favIcon": "",
+			"phone": "",
+			"phone@2": "",
+			"tablet": "",
+			"tablet@2": ""
+		},
+		"deviceTypes": {
+			"desktop": true,
+			"tablet": true,
+			"phone": true
+		}
+	},
+	"sap.ui5": {
+		"flexEnabled": true,
+		"dependencies": {
+			"minUI5Version": "1.145.0",
+			"libs": {
+				"sap.m": {},
+				"sap.ui.core": {},
+				"sap.fe.core": {}
+			}
+		},
+		"contentDensities": {
+			"compact": true,
+			"cozy": true
+		},
+		"models": {
+			"i18n": {
+				"type": "sap.ui.model.resource.ResourceModel",
+				"settings": {
+					"bundleName": "com.subbu.subbuflexcap.i18n.i18n",
+					"supportedLocales": [
+						""
+					]
+				}
+			},
+			"": {
+				"dataSource": "mainService",
+				"preload": true,
+				"settings": {
+					"operationMode": "Server",
+					"autoExpandSelect": true,
+					"earlyRequests": true
+				}
+			},
+			"@i18n": {
+				"type": "sap.ui.model.resource.ResourceModel",
+				"uri": "i18n/i18n.properties",
+				"settings": {
+					"supportedLocales": [
+						""
+					]
+				}
+			}
+		},
+		"resources": {
+			"css": []
+		},
+		"routing": {
+			"config": {},
+			"routes": [
+				{
+					"name": "TravelMain",
+					"pattern": ":?query:",
+					"target": "TravelMain"
+				}
+			],
+			"targets": {
+				"TravelMain": {
+					"type": "Component",
+					"id": "TravelMain",
+					"name": "sap.fe.core.fpm",
+					"options": {
+						"settings": {
+							"navigation": {},
+							"contextPath": "/Travel",
+							"viewName": "com.subbu.subbuflexcap.ext.main.Main"
+						}
+					}
+				}
+			}
+		},
+		"flexBundle": false
+	},
+	"sap.fe": {
+		"app": {
+			"enableLazyLoading": true
+		}
+	},
+	"sap.cloud": {
+		"public": true,
+		"service": "zfpm"
+	}
+}

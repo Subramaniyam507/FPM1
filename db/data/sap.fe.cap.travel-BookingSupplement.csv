@@ -1,13 +1,3 @@
-code;locale;name
-N;de;Neu
-B;de;Bestätigt
-X;de;Storniert
-N;fr;Nouveau
-B;fr;Réservé
-X;fr;Annulé
-N;it;Nuova
-B;it;Prenotato
-X;it;Annullato
-N;en;New
-B;en;Accepted
-X;en;Cancelled
+BookSupplUUID,BookingSupplementID,Price,CurrencyCode_code,to_Booking_BookingUUID,to_Travel_TravelUUID,to_Supplement_SupplementID,createdAt,createdBy,LastChangedAt,LastChangedBy
+31125755-9473-4b90-aecc-6e2a71b40256,94,65.32,615,Booking-22517058,Travel-4478387,Supplement-9395433,2000-02-05T00:00:00.000Z,createdBy.ij4sb@example.net,2023-02-03T00:00:00.000Z,LastChangedBy.ij4sb@example.org
+31125756-73ea-4153-b1f7-65bfc1b29e1a,39,59.56,615,Booking-22517058,Travel-4478387,Supplement-9395433,2010-08-23T00:00:00.000Z,createdBy.ij4sc@example.org,2010-12-18T00:00:00.000Z,LastChangedBy.ij4sc@example.net

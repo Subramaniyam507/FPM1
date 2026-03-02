@@ -1,12 +1,3 @@
-code;name;descr
-AU;Australia;Commonwealth of Australia
-CA;Canada;Canada
-CN;China;People's Republic of China (PRC)
-FR;France;French Republic
-DE;Germany;Federal Republic of Germany
-IN;India;Republic of India
-IL;Israel;State of Israel
-MM;Myanmar;Republic of the Union of Myanmar
-GB;United Kingdom;United Kingdom of Great Britain and Northern Ireland
-US;United States;United States of America (USA)
-EU;European Union;European Union
+code,locale,name,descr
+730,ja,name-19898396,descr-19898396
+730,pl,name-19898397,descr-19898397
